@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainbox{
+    display: flex;
+    background-color: rgb(226, 226, 143);
+}
+.leftbox p{
+    margin-top: 20px;
+}
+.leftbox{
+    margin-left: 10px;
+}
+.rightbox img{
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 200px;
+}
